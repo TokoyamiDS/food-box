@@ -30,7 +30,7 @@ class MyScaffoldDrawer extends StatelessWidget {
             onTap: null,
           ),
           const ListTile(
-            title: Text("دوم"),
+            title: Text("کتاب"),
             onTap: null,
           ),
           const ListTile(
